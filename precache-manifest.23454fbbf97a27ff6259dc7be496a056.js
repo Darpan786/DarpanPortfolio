@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7afd77ce9bca088220b16e687c7a2f73",
+    "revision": "a99bcecec4625ef86258d04809d86837",
     "url": "/DarpanPortfolio/index.html"
   },
   {
-    "revision": "fa24c604da4f2bedfdab",
+    "revision": "d44f8657b5b531176be3",
     "url": "/DarpanPortfolio/static/css/main.ff2d0439.chunk.css"
   },
   {
-    "revision": "dc381f0233c846718284",
-    "url": "/DarpanPortfolio/static/js/2.8328f34b.chunk.js"
+    "revision": "153501d5fdc439ee9756",
+    "url": "/DarpanPortfolio/static/js/2.3141797e.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/DarpanPortfolio/static/js/2.8328f34b.chunk.js.LICENSE.txt"
+    "url": "/DarpanPortfolio/static/js/2.3141797e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa24c604da4f2bedfdab",
-    "url": "/DarpanPortfolio/static/js/main.1c59e7a5.chunk.js"
+    "revision": "d44f8657b5b531176be3",
+    "url": "/DarpanPortfolio/static/js/main.534b0d8b.chunk.js"
   },
   {
-    "revision": "81ce70b0710883202c3d",
-    "url": "/DarpanPortfolio/static/js/runtime-main.7119e948.js"
+    "revision": "ef10c7b31741a13c7551",
+    "url": "/DarpanPortfolio/static/js/runtime-main.ec0d146a.js"
   },
   {
     "revision": "f6491bfa4afa66fbfbffac5ee4b507e2",
